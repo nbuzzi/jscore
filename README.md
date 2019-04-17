@@ -1,0 +1,2 @@
+# jscore
+JS Core Framework
